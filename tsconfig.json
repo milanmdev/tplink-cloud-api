@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+    "lib": ["es2018"],
+    "types": ["node"],
+    "outDir": "distribution",
+    "declaration": true,
+    "declarationDir": "distribution",
+    "esModuleInterop": true,
+    "sourceMap": true
+  },
+  "include": ["lib/**/*"],
+  "exclude": ["lib/**/*.spec.ts"]
+}
