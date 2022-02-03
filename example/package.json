@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "dotenv": "14.3.0",
+    "dotenv": "16.0.0",
     "tplink-cloud-api": "link:.."
   },
   "devDependencies": {
